@@ -1,1 +1,1 @@
-# ischemic-stroke-ischemic-heart-disease-case-study
+# Ischemic-stroke-ischemic-heart-disease-case-study

@@ -1,6 +1,8 @@
 /********************************************
 Purpose:  2 case study of ischemic stroke/ischemic heart disease (see description)
 DATA SETS: tmp1.h_nhi_enrol*, tmp1.h_nhi_opdte*, tmp1.h_nhi_ipdte*, h_nhi_ipdte*, h_ost_death*, H_nhi_medfa*, and merged datasets
+(Replace * with year)
+(SAS macro/logistic regression)
 PROGRAMMER: Gloria Xiang 
 ********************************************/
 
